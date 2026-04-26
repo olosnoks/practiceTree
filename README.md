@@ -1,4 +1,4 @@
-# 🚦 DragTree — Reaction Timer for T-Display S3
+# 🚦 Practice Tree — Reaction Timer for T-Display S3
 
 A drag racing Christmas tree reaction timer built on the **LILYGO T-Display S3**, using an external LED tree and a single push button. Simulates a full NHRA-style countdown sequence and measures your reaction time to the nearest millisecond.
 
@@ -183,7 +183,7 @@ monitor_speed = 115200
 1. Install **ESP32 board package** via Boards Manager
 2. Install **LovyanGFX** via Library Manager
 3. Select board: **LILYGO T-Display-S3**
-4. Upload `main.cpp` (rename to `.ino` if needed)
+4. Upload `main.cpp` 
 
 ***
 
