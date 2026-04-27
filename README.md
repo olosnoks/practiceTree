@@ -7,7 +7,7 @@ A drag racing Christmas tree reaction timer built on the **LILYGO T-Display S3**
 ## ✨ Features
 
 - 🌲 **Full Tree mode** — sequential yellow lights, 500ms between each
-- ⚡ **Pro Tree mode** — all three yellows simultaneously, 100ms to green (triple-tap to switch)
+- ⚡ **Pro Tree mode** — sequential yellow lights, 100ms between each (triple-tap to switch)
 - 🎲 **Random stage delay** — 1–7 second random hold after staging before the tree drops
 - ⏱️ **Reaction time measurement** — millisecond-accurate, displayed in `.XXX` second format
 - 🏆 **Personal best tracking** — best RT persists across all runs in the session, highlighted in blue
