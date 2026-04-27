@@ -186,8 +186,8 @@ Tap the button **3 times** quickly (each tap < 500ms hold, all 3 within a 1500ms
 
 | Mode | Yellow Behavior | Timing |
 |------|----------------|--------|
-| **Full Tree** | Sequential Y1 → Y2 → Y3 → Green | 500ms per step |
-| **Pro Tree** | All three yellows simultaneously → Green | 100ms to green |
+| **Full Tree**| 500ms per step |
+| **Pro Tree** | 100ms to green |
 
 The active mode is shown in the header on every screen.
 
